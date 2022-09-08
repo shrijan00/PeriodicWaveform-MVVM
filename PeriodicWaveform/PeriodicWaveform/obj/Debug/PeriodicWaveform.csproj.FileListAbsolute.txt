@@ -1,0 +1,17 @@
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\bin\Debug\PeriodicWaveform.exe.config
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\bin\Debug\PeriodicWaveform.exe
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\bin\Debug\PeriodicWaveform.pdb
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.csproj.AssemblyReference.cache
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\MainWindow.g.cs
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\App.g.cs
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform_MarkupCompile.cache
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform_MarkupCompile.lref
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\MainWindow.baml
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.g.resources
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.Properties.Resources.resources
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.csproj.GenerateResource.cache
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.exe
+D:\C# Tutorial\source\PeriodicWaveform\PeriodicWaveform\obj\Debug\PeriodicWaveform.pdb
